@@ -1,4 +1,4 @@
-# SpringJunit
+# Spring Junit
 
 What you will learn:
 - Write unit tests for CRUD operations with Spring Boot, Spring Data JPA, Hibernate & MySQL.
