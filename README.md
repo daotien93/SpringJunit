@@ -1,16 +1,10 @@
 # Spring Junit
 
-What you will learn:
+What i'll learn:
 - Write unit tests for CRUD operations with Spring Boot, Spring Data JPA, Hibernate & MySQL.
 - Auto configure test database: using default, in-memory h2 database or real database.
 - Run the whole Test class in order of test methods
 - Rollback database transactions
-
-You will learn to use the following annotations for unit testings with Spring data JPA:
-@DataJpaTest
-@AutoConfigureTestDatabase
-@Rollback
-@TestMethodOrder and @Order
 
 Result test CURD:
 
